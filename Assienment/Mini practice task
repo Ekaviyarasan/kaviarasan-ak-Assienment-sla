@@ -1,0 +1,126 @@
+<section class="profile-card">
+  <h1>Ak</h1>
+
+  <p>
+    <strong>UX/UI Designer</strong> focused on crafting intuitive digital products that feel 
+    natural, accessible, and human-centered.
+  </p>
+
+  <p>
+    With a background in psychology and product design, Arjun brings a unique perspective to 
+    his work, blending aesthetics with <em>behavior-driven design principles</em>.
+  </p>
+
+  <h2>Skills</h2>
+  <p>
+    Wireframing, prototyping, user research, interaction design, usability testing, and 
+    cross-functional collaboration.
+  </p>
+
+  <small>
+    Note: This profile card is fictional and used solely for demonstration purposes.
+  </small>
+</section>
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Terms & Conditions</title>
+</head>
+<body>
+
+<h1>Terms & Conditions</h1>
+
+<h2>1. Introduction</h2>
+<p>
+    Welcome to our website. By accessing or using our services, you agree to the following terms and conditions.
+</p>
+<hr>
+
+<h2>2. User Responsibilities</h2>
+<p>
+    Users must provide accurate information and follow all guidelines while using the platform.
+</p>
+<hr>
+
+<h2>3. Privacy Policy</h2>
+<p>
+    We respect your privacy and protect your data as described in our Privacy Policy.
+</p>
+<hr>
+
+<h2>4. Limitations of Liability</h2>
+<p>
+    The company is not responsible for any damages arising from the misuse of the website.
+</p>
+<hr>
+
+<h2>5. Changes to Terms</h2>
+<p>
+    We reserve the right to update these terms at any time. Continued use of the site means you accept the new terms.
+</p>
+
+</body>
+</html>
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mini Landing Page</title>
+</head>
+<body>
+
+<h1>Welcome to BrightWeb Solutions</h1>
+
+<h2>Your Digital Growth Partner</h2>
+<p>
+    We help businesses achieve online success through <mark>smart strategies</mark>, 
+    <mark>creative design</mark>, and <mark>powerful technology</mark>.
+</p>
+
+<h3>Our Core Services</h3>
+<p>
+    Boost your online presence with our expert web development, SEO optimization, 
+    and personalized digital marketing plans.
+</p>
+
+<h4>Why Choose Us?</h4>
+<p>
+    Our team is dedicated to delivering results, focusing on innovation, customer satisfaction, 
+    and long-term success.
+</p>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+<section>
+    <h2>Lyric Excerpt</h2>
+    <p>
+        Walking down this endless road,<br>
+        Carrying dreams I never told.<br>
+        Stars above will guide my way,<br>
+        Till I see a brighter day.
+    </p>
+</section>
+
+<section>
+    <h2>Poem: The Morning Light</h2>
+    <p>
+        The sun awakens the silent sky,<br>
+        Painting gold where shadows lie.<br>
+        A gentle breeze begins to play,<br>
+        Whispering softly to start the day.
+    </p>
+</section>
